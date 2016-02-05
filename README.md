@@ -1,2 +1,2 @@
 # datasciencecoursera
-Theis is my repository for the Data Science courses
+This is my repository for the Data Science courses
